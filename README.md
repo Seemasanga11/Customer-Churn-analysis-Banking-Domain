@@ -1,28 +1,30 @@
 # Customer-Churn-analysis-Banking-Domain
 ## Overview
+![Screenshot (798)](https://github.com/user-attachments/assets/9325b011-9217-4335-b835-fbf7103b6dbf)
 This repository contains a Power BI report, banking domain.pbix, designed to provide insightful analytics and visualizations for the banking domain. The report covers key performance indicators (KPIs), trends, and data-driven insights to support decision-making in banking operations.
 
+
 ## Features
-Customer Insights: Analyze customer demographics, preferences, and behaviors.
+**Customer Insights:** Analyze customer demographics, preferences, and behaviors.
 
-Financial Performance: Monitor revenue, expenses, and profit trends.
+**Financial Performance:** Monitor revenue, expenses, and profit trends.
 
-Loan Analysis: Evaluate loan performance, repayment rates, and defaults.
+**Loan Analysis:** Evaluate loan performance, repayment rates, and defaults.
 
-Risk Management: Identify potential risks and their mitigation strategies.
+**Risk Management:** Identify potential risks and their mitigation strategies.
 
-Branch Performance: Compare the performance of various branches.
+**Branch Performance:** Compare the performance of various branches.
 
 ## Getting Started
 To view and interact with the report, follow these steps:
 
-Install Power BI Desktop:
+1.Install Power BI Desktop:
 Download and install Power BI Desktop.
 
-Download the Report:
+2.Download the Report:
 Clone or download this repository to access the banking domain.pbix file.
 
-Open the Report:
+3.Open the Report:
 Open the banking domain.pbix file in Power BI Desktop to explore the prebuilt dashboards and visualizations.
 
 ## Usage
